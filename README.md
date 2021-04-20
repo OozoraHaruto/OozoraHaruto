@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oozorataiyou
+- 👀 I’m interested in SwiftUI
+- 🌱 I’m currently learning ObjC UI Automation
+- 💞️ I’m looking to collaborate on nothing
+- 📫 How to reach me taiyoozoraapps@gmail.com
