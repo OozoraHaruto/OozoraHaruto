@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @oozorataiyou
-- 👀 I’m interested in SwiftUI
-- 🌱 I’m currently learning ObjC UI Automation
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me taiyoozoraapps@gmail.com
+- 👋 Hi, I’m @oozoraharuto
+- 💞️ I’m currnetly looking for a job (QA Test Automation)
+- 📫 How to reach me malcolmchew1993@gmail.com
+- ℹ️ my website https://www.oozoraharuto.com
+- 👀 I’m interested in SwiftUI, Golang, Next.js
+- 🌱 I’m currently learning Next.js
