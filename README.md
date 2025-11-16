@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oozoraharuto
-- 💞️ I’m currnetly looking for a job (QA Test Automation)
-- 📫 How to reach me malcolmchew1993@gmail.com
-- ℹ️ my website https://www.oozoraharuto.com
+- ~~💞️ I’m currently looking for a job (QA Test Automation)~~
+- ~~📫 How to reach me malcolmchew1993@gmail.com~~
+- ~~ℹ️ my website https://www.oozoraharuto.com~~
 - 👀 I’m interested in SwiftUI, Golang, Next.js
 - 🌱 I’m currently learning Next.js
